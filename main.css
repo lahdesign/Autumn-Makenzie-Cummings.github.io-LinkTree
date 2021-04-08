@@ -1,0 +1,43 @@
+body{
+    background-image:url("assets/background.png") ;
+}
+.Header{
+    position:absolute;
+    font-size: 32px;
+    font-family:'Playfair Display', serif;
+    padding-top: 2%;
+    padding-left: 29%;
+}
+.Title{
+    position:absolute;
+    font-size: 26px;
+    font-family:'Playfair Display' serif;
+    padding-top: 9%;
+    padding-left: 36%;
+}
+.resume{
+    position:absolute;
+    font-size: 16px;
+    font-family:'Open Sans', sans-serif;
+    padding-top: 17.5%;
+    padding-left: 46.5%;
+}
+.website{
+    position:absolute;
+    font-size: 16px;
+    font-family:'Open Sans', sans-serif;
+    padding-top: 28%;
+    padding-left: 46.5%;
+}
+.contact{
+    position:absolute;
+    font-size: 16px;
+    font-family:'Open Sans', sans-serif;
+    padding-top: 38.2%;
+    padding-left: 46.5%;
+}
+.circles{
+    position:fixed;
+    padding-top: 3%;
+    padding-left: 20%;
+}
